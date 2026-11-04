@@ -37,61 +37,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.191047915685136" />
-      <entry key="MS500" value="2.6972929014154152" />
-      <entry key="S2" value="5.115902748989748" />
-      <entry key="S5" value="6.25137588379409" />
-      <entry key="S10" value="6.89430247219788" />
-      <entry key="S30" value="8.585746161077555" />
-      <entry key="S60" value="12.365844301404435" />
-      <entry key="M2" value="17.693556736899517" />
-      <entry key="M5" value="24.090911635452994" />
-      <entry key="M10" value="28.67701604320626" />
-      <entry key="M15" value="32.241367249747015" />
-      <entry key="M30" value="42.998585281368996" />
-      <entry key="H1" value="59.80585685765322" />
-      <entry key="H2" value="76.83509914369914" />
-      <entry key="H4" value="89.40914523214948" />
-      <entry key="D1" value="102.89977443582747" />
-      <entry key="W1" value="105.54804688536922" />
+      <entry key="MS100" value="1.0000046640025242" />
+      <entry key="MS500" value="1.0858523043523005" />
+      <entry key="S2" value="1.5554210263597499" />
+      <entry key="S5" value="1.9642515646085656" />
+      <entry key="S10" value="2.311072817783273" />
+      <entry key="S30" value="2.7668581964202397" />
+      <entry key="S60" value="3.176665819407258" />
+      <entry key="M2" value="3.774614538068828" />
+      <entry key="M5" value="6.4765372112973525" />
+      <entry key="M10" value="13.053695184902871" />
+      <entry key="M15" value="18.203658333868336" />
+      <entry key="M30" value="26.585945139002323" />
+      <entry key="H1" value="35.029217089208686" />
+      <entry key="H2" value="51.999798545603426" />
+      <entry key="H4" value="78.75136574816747" />
+      <entry key="D1" value="129.9414948300103" />
+      <entry key="W1" value="143.54527878140584" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="5.72516794217594E-232" />
-      <entry key="MS500" value="5.672302449205025E-47" />
-      <entry key="S2" value="3.817084693433778E-12" />
-      <entry key="S5" value="4.850873564854828E-5" />
-      <entry key="S10" value="0.01247498558115571" />
-      <entry key="S30" value="0.5586433750304123" />
-      <entry key="S60" value="1.4836143277611413" />
-      <entry key="M2" value="2.431355671954814" />
-      <entry key="M5" value="3.313371246816007" />
-      <entry key="M10" value="3.857115468019327" />
-      <entry key="M15" value="4.240243704871813" />
-      <entry key="M30" value="5.100139890302265" />
-      <entry key="H1" value="6.172379129094747" />
-      <entry key="H2" value="7.20655941961722" />
-      <entry key="H4" value="7.973276980520788" />
-      <entry key="D1" value="8.80664505657739" />
-      <entry key="W1" value="8.97176808369371" />
+      <entry key="MS100" value="1.23620221207401E-29" />
+      <entry key="MS500" value="1.6535521765035383E-6" />
+      <entry key="S2" value="0.03585952543006439" />
+      <entry key="S5" value="0.26462712730769483" />
+      <entry key="S10" value="0.5359305463473125" />
+      <entry key="S30" value="1.1056029824223446" />
+      <entry key="S60" value="1.5808318948456623" />
+      <entry key="M2" value="2.076080746765811" />
+      <entry key="M5" value="3.0517145839410196" />
+      <entry key="M10" value="5.144027485573564" />
+      <entry key="M15" value="6.897900491012837" />
+      <entry key="M30" value="9.887220117254241" />
+      <entry key="H1" value="12.359303088602204" />
+      <entry key="H2" value="14.948235000174273" />
+      <entry key="H4" value="17.836682858724075" />
+      <entry key="D1" value="22.590093924640787" />
+      <entry key="W1" value="23.786061764479843" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1584775330726695" />
-      <entry key="MS500" value="2.6767184636551513" />
-      <entry key="S2" value="5.097422001187917" />
-      <entry key="S5" value="6.222183295435971" />
-      <entry key="S10" value="6.87012562875098" />
-      <entry key="S30" value="9.085746214037247" />
-      <entry key="S60" value="13.770584409805325" />
-      <entry key="M2" value="20.05331459527432" />
-      <entry key="M5" value="27.362061070395683" />
-      <entry key="M10" value="32.509070383744735" />
-      <entry key="M15" value="36.46282246528473" />
-      <entry key="M30" value="48.086396210821654" />
-      <entry key="H1" value="65.96993800631077" />
-      <entry key="H2" value="84.0364272781173" />
-      <entry key="H4" value="97.37939920897145" />
-      <entry key="D1" value="111.70584140859967" />
-      <entry key="W1" value="114.51973027902022" />
+      <entry key="MS100" value="0.8350918961196568" />
+      <entry key="MS500" value="1.0477563431558259" />
+      <entry key="S2" value="1.5507150789113844" />
+      <entry key="S5" value="2.0968421140785747" />
+      <entry key="S10" value="2.6929934246944103" />
+      <entry key="S30" value="3.7593037321350153" />
+      <entry key="S60" value="4.675449926320395" />
+      <entry key="M2" value="5.795758656077639" />
+      <entry key="M5" value="9.49189552871344" />
+      <entry key="M10" value="18.164719178968006" />
+      <entry key="M15" value="25.07189188474739" />
+      <entry key="M30" value="36.45210381718404" />
+      <entry key="H1" value="47.37541223153121" />
+      <entry key="H2" value="66.93989867713321" />
+      <entry key="H4" value="96.58296202169853" />
+      <entry key="D1" value="152.5304366484006" />
+      <entry key="W1" value="167.33116461860362" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -103,26 +103,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/python_first_api/fastapi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python_first_api/fastapi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -139,7 +181,10 @@
       <updated>1793378454825</updated>
       <workItem from="1793378456245" duration="1623000" />
       <workItem from="1793463219461" duration="7342000" />
-      <workItem from="1793507722956" duration="3288000" />
+      <workItem from="1793507722956" duration="4246000" />
+      <workItem from="1793587136996" duration="1817000" />
+      <workItem from="1793719240700" duration="1990000" />
+      <workItem from="1793804912867" duration="5202000" />
     </task>
     <servers />
   </component>
