@@ -37,61 +37,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000046640025242" />
-      <entry key="MS500" value="1.0858523043523005" />
-      <entry key="S2" value="1.5554210263597499" />
-      <entry key="S5" value="1.9642515646085656" />
-      <entry key="S10" value="2.311072817783273" />
-      <entry key="S30" value="2.7668581964202397" />
-      <entry key="S60" value="3.176665819407258" />
-      <entry key="M2" value="3.774614538068828" />
-      <entry key="M5" value="6.4765372112973525" />
-      <entry key="M10" value="13.053695184902871" />
-      <entry key="M15" value="18.203658333868336" />
-      <entry key="M30" value="26.585945139002323" />
-      <entry key="H1" value="35.029217089208686" />
-      <entry key="H2" value="51.999798545603426" />
-      <entry key="H4" value="78.75136574816747" />
-      <entry key="D1" value="129.9414948300103" />
-      <entry key="W1" value="143.54527878140584" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000054948449897" />
+      <entry key="S5" value="1.0080244150351905" />
+      <entry key="S10" value="1.1172264345894547" />
+      <entry key="S30" value="2.6461346925988947" />
+      <entry key="S60" value="5.906354455145927" />
+      <entry key="M2" value="11.4683063751394" />
+      <entry key="M5" value="19.062583595104705" />
+      <entry key="M10" value="23.00145132821208" />
+      <entry key="M15" value="24.536055012552318" />
+      <entry key="M30" value="26.198756789259672" />
+      <entry key="H1" value="27.208313400743265" />
+      <entry key="H2" value="30.644511355836507" />
+      <entry key="H4" value="47.681733088735044" />
+      <entry key="D1" value="146.42314578760508" />
+      <entry key="W1" value="192.60594643298836" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.23620221207401E-29" />
-      <entry key="MS500" value="1.6535521765035383E-6" />
-      <entry key="S2" value="0.03585952543006439" />
-      <entry key="S5" value="0.26462712730769483" />
-      <entry key="S10" value="0.5359305463473125" />
-      <entry key="S30" value="1.1056029824223446" />
-      <entry key="S60" value="1.5808318948456623" />
-      <entry key="M2" value="2.076080746765811" />
-      <entry key="M5" value="3.0517145839410196" />
-      <entry key="M10" value="5.144027485573564" />
-      <entry key="M15" value="6.897900491012837" />
-      <entry key="M30" value="9.887220117254241" />
-      <entry key="H1" value="12.359303088602204" />
-      <entry key="H2" value="14.948235000174273" />
-      <entry key="H4" value="17.836682858724075" />
-      <entry key="D1" value="22.590093924640787" />
-      <entry key="W1" value="23.786061764479843" />
+      <entry key="MS100" value="4.511254070491373E-90" />
+      <entry key="MS500" value="1.3516350879866794E-18" />
+      <entry key="S2" value="3.410576810812695E-5" />
+      <entry key="S5" value="0.016958510149223626" />
+      <entry key="S10" value="0.1599566716240596" />
+      <entry key="S30" value="1.3901612934403154" />
+      <entry key="S60" value="3.5067208248308623" />
+      <entry key="M2" value="6.349906216230563" />
+      <entry key="M5" value="9.595966249075989" />
+      <entry key="M10" value="11.134999582793277" />
+      <entry key="M15" value="11.716714002815985" />
+      <entry key="M30" value="12.33743580945495" />
+      <entry key="H1" value="12.69075964299289" />
+      <entry key="H2" value="13.509467416512138" />
+      <entry key="H4" value="16.90691790336645" />
+      <entry key="D1" value="32.922072879010805" />
+      <entry key="W1" value="39.6610420090754" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8350918961196568" />
-      <entry key="MS500" value="1.0477563431558259" />
-      <entry key="S2" value="1.5507150789113844" />
-      <entry key="S5" value="2.0968421140785747" />
-      <entry key="S10" value="2.6929934246944103" />
-      <entry key="S30" value="3.7593037321350153" />
-      <entry key="S60" value="4.675449926320395" />
-      <entry key="M2" value="5.795758656077639" />
-      <entry key="M5" value="9.49189552871344" />
-      <entry key="M10" value="18.164719178968006" />
-      <entry key="M15" value="25.07189188474739" />
-      <entry key="M30" value="36.45210381718404" />
-      <entry key="H1" value="47.37541223153121" />
-      <entry key="H2" value="66.93989867713321" />
-      <entry key="H4" value="96.58296202169853" />
-      <entry key="D1" value="152.5304366484006" />
-      <entry key="W1" value="167.33116461860362" />
+      <entry key="MS100" value="0.2044755146394453" />
+      <entry key="MS500" value="0.7279947744995433" />
+      <entry key="S2" value="0.9237310322771265" />
+      <entry key="S5" value="0.9908626444456805" />
+      <entry key="S10" value="1.2453253122360675" />
+      <entry key="S30" value="3.953823300878927" />
+      <entry key="S60" value="9.286413602534342" />
+      <entry key="M2" value="17.68543164990849" />
+      <entry key="M5" value="28.568901659290056" />
+      <entry key="M10" value="34.08225902393586" />
+      <entry key="M15" value="36.21421259132217" />
+      <entry key="M30" value="38.51559951795198" />
+      <entry key="H1" value="39.88839370387864" />
+      <entry key="H2" value="44.14815350744166" />
+      <entry key="H4" value="64.58470232870191" />
+      <entry key="D1" value="179.34370819634574" />
+      <entry key="W1" value="232.26671981876405" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -123,48 +123,6 @@
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -184,7 +142,8 @@
       <workItem from="1793507722956" duration="4246000" />
       <workItem from="1793587136996" duration="1817000" />
       <workItem from="1793719240700" duration="1990000" />
-      <workItem from="1793804912867" duration="5202000" />
+      <workItem from="1793804912867" duration="5544000" />
+      <workItem from="1793854503934" duration="5249000" />
     </task>
     <servers />
   </component>
