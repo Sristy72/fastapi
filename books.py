@@ -1,6 +1,6 @@
 from typing import Optional
 
-from fastapi import FastAPI, Body
+from fastapi import FastAPI, Body, Path, Query
 from pydantic import BaseModel, Field
 
 app = FastAPI()
@@ -29,7 +29,7 @@ class BookRequest(BaseModel):
     author: str = Field(min_length=1)
     description: str = Field(min_length=1, max_length=100)
     rating: int = Field(gt=0, lt=6)
-    published_date: int
+    published_date: int = Field(gt = 1998, lt=2031)
 
     model_config = {
         "json_schema_extra":{
@@ -57,13 +57,13 @@ async def get_books():
     return BOOKS
 
 @app.get("/books/{book_id}")
-async def get_book(book_id: int):
+async def get_book(book_id: int = Path(gt = 0)):
     for book in BOOKS:
         if book.id == book_id:
             return book
 
 @app.get("/books/")
-async def get_book_by_rating(rating: int):
+async def get_book_by_rating(rating: int = Query(gt = 0, lt = 6)):
     books_to_return =[]
     for book in BOOKS:
         if book.rating == rating:
@@ -71,7 +71,7 @@ async def get_book_by_rating(rating: int):
     return books_to_return
 
 @app.get("/book/{published_date}")
-async def get_book_by_published_date(published_date: int):
+async def get_book_by_published_date(published_date: int = Path(gt = 1998, lt=2031)):
     books_to_return = []
     for i in range(len(BOOKS)):
         if BOOKS[i].published_date == published_date:
@@ -100,7 +100,7 @@ async def update_book(book_request: BookRequest):
 
 
 @app.delete("/books/{book_id}")
-async def delete_book(book_id: int):
+async def delete_book(book_id: int = Path(gt = 0)):
     for i in range(len(BOOKS)):
         if BOOKS[i].id == book_id:
             BOOKS.pop(i)
