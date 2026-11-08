@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="16520b29-91c5-446f-bf44-32a3af50b40f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books.py" beforeDir="false" afterPath="$PROJECT_DIR$/books.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,60 +37,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.4728465456300072E-75" />
-      <entry key="S2" value="1.9936857700974556E-19" />
-      <entry key="S5" value="4.58829529314764E-8" />
-      <entry key="S10" value="4.0654207313789187E-4" />
-      <entry key="S30" value="0.23081057290205112" />
-      <entry key="S60" value="1.2248741913789387" />
-      <entry key="M2" value="3.166030202752965" />
-      <entry key="M5" value="7.779711167521195" />
-      <entry key="M10" value="12.358999688306023" />
-      <entry key="M15" value="14.90887147277622" />
-      <entry key="M30" value="20.458871060928804" />
-      <entry key="H1" value="31.460377342481532" />
-      <entry key="H2" value="47.024672212035874" />
-      <entry key="H4" value="67.56055132783251" />
-      <entry key="D1" value="221.01742648626663" />
-      <entry key="W1" value="363.7469510945404" />
+      <entry key="MS500" value="2.0534270044223956E-97" />
+      <entry key="S2" value="8.455747140934243E-25" />
+      <entry key="S5" value="5.08005036940397E-10" />
+      <entry key="S10" value="5.501920581288955E-5" />
+      <entry key="S30" value="0.17220461501500672" />
+      <entry key="S60" value="1.4448696029782144" />
+      <entry key="M2" value="4.294390820732394" />
+      <entry key="M5" value="8.33652881177242" />
+      <entry key="M10" value="10.863230005481368" />
+      <entry key="M15" value="13.03720232099362" />
+      <entry key="M30" value="20.11398872745273" />
+      <entry key="H1" value="33.498279616874974" />
+      <entry key="H2" value="52.86931323014583" />
+      <entry key="H4" value="77.38768815959799" />
+      <entry key="D1" value="236.03632223016183" />
+      <entry key="W1" value="383.34595720017734" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.00000001783875" />
-      <entry key="S10" value="1.0002000966853686" />
-      <entry key="S30" value="1.1210211285003286" />
-      <entry key="S60" value="1.7263799618747946" />
-      <entry key="M2" value="3.2514380177153925" />
-      <entry key="M5" value="7.862176214179043" />
-      <entry key="M10" value="12.720894560048448" />
-      <entry key="M15" value="15.342801014922143" />
-      <entry key="M30" value="19.340407053952166" />
-      <entry key="H1" value="23.976335627942607" />
-      <entry key="H2" value="30.242288846156697" />
-      <entry key="H4" value="40.58828197483425" />
-      <entry key="D1" value="93.84131899393462" />
-      <entry key="W1" value="129.6113148292912" />
+      <entry key="S2" value="1.0000458407342727" />
+      <entry key="S5" value="1.025592966540025" />
+      <entry key="S10" value="1.2566376018597267" />
+      <entry key="S30" value="2.3087525013059826" />
+      <entry key="S60" value="3.0667980250090094" />
+      <entry key="M2" value="3.7405840933351104" />
+      <entry key="M5" value="4.388087928127856" />
+      <entry key="M10" value="4.976058671491759" />
+      <entry key="M15" value="6.073981874484548" />
+      <entry key="M30" value="10.62204096033891" />
+      <entry key="H1" value="18.206324381579666" />
+      <entry key="H2" value="27.738156783425882" />
+      <entry key="H4" value="40.48709130516988" />
+      <entry key="D1" value="97.36991880113953" />
+      <entry key="W1" value="135.1197050691886" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.9474260820525996E-6" />
-      <entry key="MS500" value="0.07209285031625141" />
-      <entry key="S2" value="0.5181709350253361" />
-      <entry key="S5" value="0.7687572955617524" />
-      <entry key="S10" value="0.8773484878430174" />
-      <entry key="S30" value="1.2990960786353438" />
-      <entry key="S60" value="2.8966049600886232" />
-      <entry key="M2" value="6.353091690716144" />
-      <entry key="M5" value="15.575080263997387" />
-      <entry key="M10" value="25.02552192238319" />
-      <entry key="M15" value="30.207877378988808" />
-      <entry key="M30" value="39.77168369172804" />
-      <entry key="H1" value="55.41974161666324" />
-      <entry key="H2" value="77.2564280874141" />
-      <entry key="H4" value="108.14177237242983" />
-      <entry key="D1" value="314.8554475781479" />
-      <entry key="W1" value="493.35756004258127" />
+      <entry key="MS100" value="0.0020220018043776897" />
+      <entry key="MS500" value="0.28917204597632185" />
+      <entry key="S2" value="0.7333499298702179" />
+      <entry key="S5" value="0.9066191800561165" />
+      <entry key="S10" value="1.1836939419232995" />
+      <entry key="S30" value="2.433004765015605" />
+      <entry key="S60" value="4.465736850581852" />
+      <entry key="M2" value="7.992191574488075" />
+      <entry key="M5" value="12.69680251975734" />
+      <entry key="M10" value="15.821272902744747" />
+      <entry key="M15" value="19.09545402383455" />
+      <entry key="M30" value="30.721125276334437" />
+      <entry key="H1" value="51.69154916538903" />
+      <entry key="H2" value="80.59759651789089" />
+      <entry key="H4" value="117.8675987739632" />
+      <entry key="D1" value="333.402828215911" />
+      <entry key="W1" value="518.4649301369619" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -103,36 +102,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.books.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/python_first_api/fastapi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.books.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python_first_api/fastapi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="DjangoTestsConfigurationType">
+    <configuration default="true" type="Tox" factoryName="Tox">
       <module name="fastapi" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -141,21 +138,31 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+    <configuration default="true" type="tests" factoryName="Autodetect">
       <module name="fastapi" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -165,58 +172,12 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.App">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.Task">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="launchJavascriptDebuger" value="false" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -242,7 +203,8 @@
       <workItem from="1793804912867" duration="5544000" />
       <workItem from="1793854503934" duration="9919000" />
       <workItem from="1793947697328" duration="7420000" />
-      <workItem from="1794025017026" duration="15775000" />
+      <workItem from="1794025017026" duration="16151000" />
+      <workItem from="1794123081204" duration="1988000" />
     </task>
     <servers />
   </component>
