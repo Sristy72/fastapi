@@ -70,12 +70,12 @@ async def get_book_by_rating(rating: int):
             books_to_return.append(book)
     return books_to_return
 
-@app.get("/books/publish/")
-async def read_books_by_publish_date(published_date: int):
+@app.get("/book/{published_date}")
+async def get_book_by_published_date(published_date: int):
     books_to_return = []
-    for book in BOOKS:
-        if book.published_date == published_date:
-            books_to_return.append(book)
+    for i in range(len(BOOKS)):
+        if BOOKS[i].published_date == published_date:
+            books_to_return.append(BOOKS[i])
     return books_to_return
 
 @app.post("/create_book")
