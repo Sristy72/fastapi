@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Depends, HTTPException, Path
 from pydantic import BaseModel, Field
 from starlette import status
-
+from routers import auth
 import models
 from models import Todos
 from sqlalchemy.orm import Session
@@ -10,6 +10,8 @@ from typing import Annotated
 
 app = FastAPI()
 models.Base.metadata.create_all(bind=engine)
+
+app.include_router(auth.router)
 
 def get_db():
     db = SessionLocal()
