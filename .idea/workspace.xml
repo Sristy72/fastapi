@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16520b29-91c5-446f-bf44-32a3af50b40f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TodoApp/test/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/test/test_todos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoApp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/routers/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/routers/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/routers/todos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/routers/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/routers/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/todosapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/todosapp.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,61 +50,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.8161073945983195E-16" />
-      <entry key="MS500" value="7.10956637561296E-4" />
-      <entry key="S2" value="0.175770985827507" />
-      <entry key="S5" value="0.6725644677700958" />
-      <entry key="S10" value="1.3541398539981975" />
-      <entry key="S30" value="3.3472254269876953" />
-      <entry key="S60" value="5.446980972707272" />
-      <entry key="M2" value="8.25343149039399" />
-      <entry key="M5" value="11.539172929596473" />
-      <entry key="M10" value="13.105578458775364" />
-      <entry key="M15" value="13.700075128790024" />
-      <entry key="M30" value="14.612827873537078" />
-      <entry key="H1" value="18.312339892988444" />
-      <entry key="H2" value="31.178161154898927" />
-      <entry key="H4" value="59.40243431476462" />
-      <entry key="D1" value="313.4397512107668" />
-      <entry key="W1" value="707.6665006365378" />
+      <entry key="MS100" value="1.0024721949449558" />
+      <entry key="MS500" value="1.3279390074434447" />
+      <entry key="S2" value="2.145721635826183" />
+      <entry key="S5" value="2.5834722016517264" />
+      <entry key="S10" value="2.776364510714452" />
+      <entry key="S30" value="2.9217119710365225" />
+      <entry key="S60" value="2.9603660041704023" />
+      <entry key="M2" value="2.9800691044022103" />
+      <entry key="M5" value="3.0625575616672416" />
+      <entry key="M10" value="4.437723359745466" />
+      <entry key="M15" value="6.9822749147538445" />
+      <entry key="M30" value="14.100039509445855" />
+      <entry key="H1" value="21.854975239699684" />
+      <entry key="H2" value="29.31913893760884" />
+      <entry key="H4" value="46.53040979276786" />
+      <entry key="D1" value="306.7520265888163" />
+      <entry key="W1" value="800.2214869303882" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000452345392" />
-      <entry key="S5" value="1.0011551581860416" />
-      <entry key="S10" value="1.0355450909082862" />
-      <entry key="S30" value="1.5767816373457308" />
-      <entry key="S60" value="2.6919060512754074" />
-      <entry key="M2" value="4.285729450799018" />
-      <entry key="M5" value="6.116194902111986" />
-      <entry key="M10" value="6.973729929168543" />
-      <entry key="M15" value="7.297110470158034" />
-      <entry key="M30" value="7.831743579184258" />
-      <entry key="H1" value="10.053556960912418" />
-      <entry key="H2" value="16.46607385729874" />
-      <entry key="H4" value="28.249547814324526" />
-      <entry key="D1" value="114.4679457490506" />
-      <entry key="W1" value="238.30629849136614" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="5.676966271042938E-144" />
+      <entry key="S10" value="2.4866924278815864E-72" />
+      <entry key="S30" value="1.909595524876276E-24" />
+      <entry key="S60" value="2.6040735219840517E-12" />
+      <entry key="M2" value="4.4287000278530975E-6" />
+      <entry key="M5" value="0.03167290373801163" />
+      <entry key="M10" value="0.6523934153767276" />
+      <entry key="M15" value="1.804348285308697" />
+      <entry key="M30" value="5.018083953946328" />
+      <entry key="H1" value="8.439609191483324" />
+      <entry key="H2" value="11.288958984184847" />
+      <entry key="H4" value="16.183827087459637" />
+      <entry key="D1" value="98.55814299313465" />
+      <entry key="W1" value="254.28473064498527" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.1618516144942165E-16" />
-      <entry key="MS500" value="9.202595512504695E-4" />
-      <entry key="S2" value="0.28419173646693563" />
-      <entry key="S5" value="1.022635337777986" />
-      <entry key="S10" value="1.932778726871522" />
-      <entry key="S30" value="4.693459251549991" />
-      <entry key="S60" value="7.97386178074373" />
-      <entry key="M2" value="12.41735380546965" />
-      <entry key="M5" value="17.586846467249373" />
-      <entry key="M10" value="20.040181285833185" />
-      <entry key="M15" value="20.969858831206942" />
-      <entry key="M30" value="22.429995211827677" />
-      <entry key="H1" value="28.357028908731063" />
-      <entry key="H2" value="47.63732832699421" />
-      <entry key="H4" value="87.64609085617408" />
-      <entry key="D1" value="427.9034206210712" />
-      <entry key="W1" value="945.9714666041345" />
+      <entry key="MS100" value="0.0030226049794462627" />
+      <entry key="MS500" value="0.3558011523563133" />
+      <entry key="S2" value="1.5043858775875971" />
+      <entry key="S5" value="2.244823604571572" />
+      <entry key="S10" value="2.5892559373471764" />
+      <entry key="S30" value="2.8549110664891937" />
+      <entry key="S60" value="2.9263786954458992" />
+      <entry key="M2" value="2.9629304504458234" />
+      <entry key="M5" value="3.0869620022234034" />
+      <entry key="M10" value="5.08265716659299" />
+      <entry key="M15" value="8.776827983317437" />
+      <entry key="M30" value="19.106394930539317" />
+      <entry key="H1" value="30.28502693123408" />
+      <entry key="H2" value="40.601757761853506" />
+      <entry key="H4" value="62.7098291351521" />
+      <entry key="D1" value="405.3062590672557" />
+      <entry key="W1" value="1054.5047654782986" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -121,8 +129,10 @@
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/python_first_api/fastapi&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
@@ -130,6 +140,12 @@
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_first_api\fastapi" />
+      <recent name="D:\python_first_api\fastapi\TodoApp\routers" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -156,7 +172,8 @@
       <workItem from="1794123081204" duration="9340000" />
       <workItem from="1794220655171" duration="6758000" />
       <workItem from="1794293330526" duration="8243000" />
-      <workItem from="1794369690062" duration="12225000" />
+      <workItem from="1794369690062" duration="13085000" />
+      <workItem from="1794421911773" duration="9000" />
     </task>
     <servers />
   </component>
