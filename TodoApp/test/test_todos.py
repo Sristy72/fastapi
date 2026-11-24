@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, StaticPool
+from sqlalchemy import create_engine, StaticPool, text
 from sqlalchemy.orm import sessionmaker
 from ..database import Base
 from ..main import app
@@ -33,7 +33,42 @@ app.dependency_overrides[get_current_user] = override_get_current_user
 
 client = TestClient(app)
 
-def test_read_all_authenticated():
+@pytest.fixture
+def test_todo():
+    db = TestingSessionLocal()
+
+    todo = Todos(
+        title="Learn to code!",
+        description="Need to learn everyday!",
+        priority=5,
+        complete=False,
+        owner_id=1,
+    )
+
+    db.add(todo)
+    db.commit()
+    db.refresh(todo)
+
+    yield todo
+
+    db.close()
+
+    with engine.connect() as connection:
+        connection.execute(text("DELETE FROM todos"))
+        connection.commit()
+
+def test_read_all_authenticated(test_todo):
     response = client.get('/')
+
     assert response.status_code == status.HTTP_200_OK
-    assert  response.json() == []
+
+    assert response.json() == [
+        {
+            'complete': True,
+            'title': 'string',
+            'description': 'string',
+            'id': 1,
+            'priority': 1,
+            'owner_id': 1
+        }
+    ]
