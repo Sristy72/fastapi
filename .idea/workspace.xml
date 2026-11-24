@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16520b29-91c5-446f-bf44-32a3af50b40f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TodoApp/test/test_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TodoApp/test/test_todos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/routers/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/routers/auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/routers/todos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/routers/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/routers/users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/todosapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/todosapp.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,61 +41,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0024721949449558" />
-      <entry key="MS500" value="1.3279390074434447" />
-      <entry key="S2" value="2.145721635826183" />
-      <entry key="S5" value="2.5834722016517264" />
-      <entry key="S10" value="2.776364510714452" />
-      <entry key="S30" value="2.9217119710365225" />
-      <entry key="S60" value="2.9603660041704023" />
-      <entry key="M2" value="2.9800691044022103" />
-      <entry key="M5" value="3.0625575616672416" />
-      <entry key="M10" value="4.437723359745466" />
-      <entry key="M15" value="6.9822749147538445" />
-      <entry key="M30" value="14.100039509445855" />
-      <entry key="H1" value="21.854975239699684" />
-      <entry key="H2" value="29.31913893760884" />
-      <entry key="H4" value="46.53040979276786" />
-      <entry key="D1" value="306.7520265888163" />
-      <entry key="W1" value="800.2214869303882" />
+      <entry key="MS100" value="1.320356005102034" />
+      <entry key="MS500" value="2.7687402808074095" />
+      <entry key="S2" value="4.778355154291097" />
+      <entry key="S5" value="5.899357678665415" />
+      <entry key="S10" value="6.405410985668166" />
+      <entry key="S30" value="6.878253631655843" />
+      <entry key="S60" value="7.708032247577931" />
+      <entry key="M2" value="9.481820849650257" />
+      <entry key="M5" value="12.065173352984827" />
+      <entry key="M10" value="14.459205509796238" />
+      <entry key="M15" value="17.217138218642553" />
+      <entry key="M30" value="24.60618221539396" />
+      <entry key="H1" value="32.77233496712846" />
+      <entry key="H2" value="40.61637870542291" />
+      <entry key="H4" value="57.99655948217363" />
+      <entry key="D1" value="318.2054421771961" />
+      <entry key="W1" value="812.019386909956" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="5.676966271042938E-144" />
-      <entry key="S10" value="2.4866924278815864E-72" />
-      <entry key="S30" value="1.909595524876276E-24" />
-      <entry key="S60" value="2.6040735219840517E-12" />
-      <entry key="M2" value="4.4287000278530975E-6" />
-      <entry key="M5" value="0.03167290373801163" />
-      <entry key="M10" value="0.6523934153767276" />
-      <entry key="M15" value="1.804348285308697" />
-      <entry key="M30" value="5.018083953946328" />
-      <entry key="H1" value="8.439609191483324" />
-      <entry key="H2" value="11.288958984184847" />
-      <entry key="H4" value="16.183827087459637" />
-      <entry key="D1" value="98.55814299313465" />
-      <entry key="W1" value="254.28473064498527" />
+      <entry key="MS500" value="2.0402914963724452E-100" />
+      <entry key="S2" value="1.627314355636501E-25" />
+      <entry key="S5" value="2.0545985524568255E-10" />
+      <entry key="S10" value="2.4085135927258853E-5" />
+      <entry key="S30" value="0.059626726791481933" />
+      <entry key="S60" value="0.4225355705360938" />
+      <entry key="M2" value="1.1256084466110714" />
+      <entry key="M5" value="2.0458454847216543" />
+      <entry key="M10" value="2.9722396704149903" />
+      <entry key="M15" value="4.156409323662721" />
+      <entry key="M30" value="7.4220484376733395" />
+      <entry key="H1" value="10.994349342698976" />
+      <entry key="H2" value="14.004594421345107" />
+      <entry key="H4" value="18.989546529529107" />
+      <entry key="D1" value="101.38088855389638" />
+      <entry key="W1" value="257.22027162220155" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0030226049794462627" />
-      <entry key="MS500" value="0.3558011523563133" />
-      <entry key="S2" value="1.5043858775875971" />
-      <entry key="S5" value="2.244823604571572" />
-      <entry key="S10" value="2.5892559373471764" />
-      <entry key="S30" value="2.8549110664891937" />
-      <entry key="S60" value="2.9263786954458992" />
-      <entry key="M2" value="2.9629304504458234" />
-      <entry key="M5" value="3.0869620022234034" />
-      <entry key="M10" value="5.08265716659299" />
-      <entry key="M15" value="8.776827983317437" />
-      <entry key="M30" value="19.106394930539317" />
-      <entry key="H1" value="30.28502693123408" />
-      <entry key="H2" value="40.601757761853506" />
-      <entry key="H4" value="62.7098291351521" />
-      <entry key="D1" value="405.3062590672557" />
-      <entry key="W1" value="1054.5047654782986" />
+      <entry key="MS100" value="1.269384665609126" />
+      <entry key="MS500" value="2.631613842798064" />
+      <entry key="S2" value="4.707981242258037" />
+      <entry key="S5" value="5.866420387506697" />
+      <entry key="S10" value="6.388047180771186" />
+      <entry key="S30" value="6.926041993939957" />
+      <entry key="S60" value="8.102604447568044" />
+      <entry key="M2" value="10.56900031622624" />
+      <entry key="M5" value="14.081750819107848" />
+      <entry key="M10" value="17.41032980479726" />
+      <entry key="M15" value="21.35432062958702" />
+      <entry key="M30" value="32.01157918837068" />
+      <entry key="H1" value="43.75448130161141" />
+      <entry key="H2" value="54.61321832271873" />
+      <entry key="H4" value="76.980964223631" />
+      <entry key="D1" value="419.5822960857582" />
+      <entry key="W1" value="1069.2381880619505" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -145,6 +136,124 @@
       <recent name="D:\python_first_api\fastapi" />
       <recent name="D:\python_first_api\fastapi\TodoApp\routers" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
