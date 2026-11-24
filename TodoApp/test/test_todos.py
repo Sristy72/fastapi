@@ -64,11 +64,11 @@ def test_read_all_authenticated(test_todo):
 
     assert response.json() == [
         {
-            'complete': True,
-            'title': 'string',
-            'description': 'string',
+            'complete': False,
+            'title': 'Learn to code!',
+            'description': 'Need to learn everyday!',
             'id': 1,
-            'priority': 1,
+            'priority': 5,
             'owner_id': 1
         }
     ]
