@@ -4,7 +4,8 @@ from ..database import Base
 from ..main import app
 from fastapi.testclient import TestClient
 import pytest
-from ..models import Todos
+from ..models import Todos, User
+from ..routers.auth import bycrypt_context
 
 SQLALCHEMY_DATABASE_URL = "sqlite:///./testdb.db"
 
@@ -56,12 +57,12 @@ def test_todo():
 
 @pytest.fixture
 def test_user():
-    user = Users(
+    user = User(
         username="codingwithrobytest",
         email="codingwithrobytest@email.com",
         first_name="Eric",
         last_name="Roby",
-        hashed_password=bcrypt_context.hash("testpassword"),
+        hashed_password=bycrypt_context.hash("testpassword"),
         role="admin",
         phone_number="(111)-111-1111"
     )

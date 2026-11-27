@@ -36,7 +36,7 @@ async def get_user(db: db_dependency, user: user_dependency):
         raise HTTPException(status_code=status.HTTP_401_NOT_FOUND, detail='Authentication Failed')
     return db.query(User).filter(User.id == user.get('id')).first()
 
-@router.put('password', status_code=status.HTTP_204_NO_CONTENT)
+@router.put('/password', status_code=status.HTTP_204_NO_CONTENT)
 async def update_password(db:db_dependency, user: user_dependency, user_versification: UserVerification):
     if user is None:
         raise HTTPException(status_code=401, detail='Authentication Failed')
