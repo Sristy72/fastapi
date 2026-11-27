@@ -7,6 +7,7 @@
     <list default="true" id="16520b29-91c5-446f-bf44-32a3af50b40f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoApp/test/test_todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/test/test_todos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdb.db" beforeDir="false" afterPath="$PROJECT_DIR$/testdb.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,61 +43,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.8409056148373608" />
-      <entry key="MS500" value="2.0642816345940416" />
-      <entry key="S2" value="2.551373579543025" />
-      <entry key="S5" value="2.7895442363482443" />
-      <entry key="S10" value="2.8887763380780225" />
-      <entry key="S30" value="2.961505588817359" />
-      <entry key="S60" value="2.98069184949064" />
-      <entry key="M2" value="3.045525523998908" />
-      <entry key="M5" value="5.615199235360406" />
-      <entry key="M10" value="13.947966467127502" />
-      <entry key="M15" value="21.85741106010525" />
-      <entry key="M30" value="38.83647648054075" />
-      <entry key="H1" value="56.094313357974634" />
-      <entry key="H2" value="70.48390733605459" />
-      <entry key="H4" value="87.64321580269876" />
-      <entry key="D1" value="323.3381095700155" />
-      <entry key="W1" value="904.2517854121223" />
+      <entry key="MS100" value="1.011759740214149" />
+      <entry key="MS500" value="1.411295242601676" />
+      <entry key="S2" value="1.892329370862575" />
+      <entry key="S5" value="2.2992443802881954" />
+      <entry key="S10" value="2.576438669818507" />
+      <entry key="S30" value="2.8379534795387897" />
+      <entry key="S60" value="2.916015206108932" />
+      <entry key="M2" value="2.957237673852222" />
+      <entry key="M5" value="2.9827171692986685" />
+      <entry key="M10" value="3.0114525244210038" />
+      <entry key="M15" value="3.2799413629224436" />
+      <entry key="M30" value="7.793881950729544" />
+      <entry key="H1" value="24.857168371619643" />
+      <entry key="H2" value="52.04325169516175" />
+      <entry key="H4" value="83.07405091391139" />
+      <entry key="D1" value="331.0107182515199" />
+      <entry key="W1" value="923.0594989700043" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.79567684135635E-197" />
-      <entry key="S5" value="4.10935522076725E-79" />
-      <entry key="S10" value="1.0863695876975449E-39" />
-      <entry key="S30" value="2.140804411500429E-13" />
-      <entry key="S60" value="8.492066876316102E-7" />
-      <entry key="M2" value="0.00186973470991589" />
-      <entry key="M5" value="0.21443667531592328" />
-      <entry key="M10" value="1.2045645678823795" />
-      <entry key="M15" value="2.4211856643093763" />
-      <entry key="M30" value="5.948839932484574" />
-      <entry key="H1" value="10.738197402717816" />
-      <entry key="H2" value="15.57226531037255" />
-      <entry key="H4" value="21.181882684105595" />
-      <entry key="D1" value="92.10689329889013" />
-      <entry key="W1" value="273.16097872783524" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="3.1350180622354207E-186" />
+      <entry key="S30" value="4.264987894553492E-62" />
+      <entry key="S60" value="6.012801062863236E-31" />
+      <entry key="M2" value="2.7764237930225237E-15" />
+      <entry key="M5" value="8.501878120735084E-6" />
+      <entry key="M10" value="0.0135282002962322" />
+      <entry key="M15" value="0.16511196576283124" />
+      <entry key="M30" value="2.216775296735367" />
+      <entry key="H1" value="9.013487966255877" />
+      <entry key="H2" value="19.419909221484595" />
+      <entry key="H4" value="30.69115856901996" />
+      <entry key="D1" value="107.16098723894189" />
+      <entry key="W1" value="291.8852969823447" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9385119633051391" />
-      <entry key="MS500" value="1.4140494691503382" />
-      <entry key="S2" value="2.1576501152935577" />
-      <entry key="S5" value="2.5783215318689092" />
-      <entry key="S10" value="2.77115413566909" />
-      <entry key="S30" value="2.919266544359949" />
-      <entry key="S60" value="2.959169126352159" />
-      <entry key="M2" value="3.0364897081570357" />
-      <entry key="M5" value="5.82322835227012" />
-      <entry key="M10" value="15.143357925070095" />
-      <entry key="M15" value="24.265511502224683" />
-      <entry key="M30" value="44.765722836233984" />
-      <entry key="H1" value="66.81337364206063" />
-      <entry key="H2" value="86.04229176093233" />
-      <entry key="H4" value="108.81614473667119" />
-      <entry key="D1" value="415.4405656971686" />
-      <entry key="W1" value="1177.4110886627486" />
+      <entry key="MS100" value="0.014246430176251589" />
+      <entry key="MS500" value="0.6178429025230193" />
+      <entry key="S2" value="1.520588604705571" />
+      <entry key="S5" value="2.0696596404546126" />
+      <entry key="S10" value="2.430017296671922" />
+      <entry key="S30" value="2.778560827112313" />
+      <entry key="S60" value="2.884690816320789" />
+      <entry key="M2" value="2.94114162680827" />
+      <entry key="M5" value="2.976179427230453" />
+      <entry key="M10" value="3.02162902860471" />
+      <entry key="M15" value="3.4423475108955572" />
+      <entry key="M30" value="10.005580282067294" />
+      <entry key="H1" value="33.86058326997441" />
+      <entry key="H2" value="71.45164267303839" />
+      <entry key="H4" value="113.75587546517554" />
+      <entry key="D1" value="438.16689012292835" />
+      <entry key="W1" value="1214.943041989595" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -139,31 +140,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
+    <configuration default="true" type="tests" factoryName="py.test">
       <module name="fastapi" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,65 +152,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
   </component>
