@@ -139,4 +139,4 @@ def test_update_todo_not_found(test_todo):
 
     response = client.put('/todo/3', json=request_data)
     assert response.status_code == 404
-    assert response.json() == {'detail': 'Todo not found.'}
+    assert response.json() == {'detail': 'Not Found'}
